@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_886575_demo_assi_demo_table_1" label="Demo Table 2" max_length="40" name="x_886575_demo_assi_demo_table_2" sizeclass="0" type="collection"/>
+</database>
